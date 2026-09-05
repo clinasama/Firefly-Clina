@@ -1,6 +1,6 @@
 {
-	"name": "firefly",
-	"compatibility_date": "2025-01-01",
+	"name": "Firefly-Clina",
+	"compatibility_date": "2026-09-05",
 	"compatibility_flags": ["nodejs_compat"],
 	"assets": {
 		"directory": "./dist"
