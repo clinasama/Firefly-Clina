@@ -19,6 +19,8 @@ const pages = resolvePageToggles({
 
 	// 动态页面开关
 	dynamic: true,
+	// 项目展示页开关
+	projects: true,
 	// 相册页面开关
 	gallery: true,
 	// 书签导航页面开关
@@ -114,7 +116,11 @@ export const siteConfig: SiteConfig = {
 			alt: "Logo",
 		},
 		// 导航栏标题
+<<<<<<< HEAD
 		title: "Clina 的笔记本",
+=======
+		title: "Firefly Blog",
+>>>>>>> upstream/master
 		// 全宽导航栏，导航栏是否占满屏幕宽度
 		widthFull: false,
 		// 导航菜单对齐方式，left：左对齐，center：居中
@@ -344,6 +350,14 @@ export const siteConfig: SiteConfig = {
 			"*.myanimelist.net",
 			"*.vndb.org",
 		],
+	},
+
+	// ── 订阅 (RSS / Atom) 配置 ──────────────────────────────────
+	feed: {
+		// 订阅条目内容模式：
+		// - "full": 包含文章正文全文（默认）
+		// - "summary": 仅包含文章摘要/描述，不含正文，体积更小
+		contentMode: "full",
 	},
 
 	// 站点语言，在本配置文件顶部SITE_LANG定义
