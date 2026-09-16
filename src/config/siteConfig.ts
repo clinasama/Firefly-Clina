@@ -116,11 +116,7 @@ export const siteConfig: SiteConfig = {
 			alt: "Logo",
 		},
 		// 导航栏标题
-<<<<<<< HEAD
 		title: "Clina 的笔记本",
-=======
-		title: "Firefly Blog",
->>>>>>> upstream/master
 		// 全宽导航栏，导航栏是否占满屏幕宽度
 		widthFull: false,
 		// 导航菜单对齐方式，left：左对齐，center：居中
