@@ -107,19 +107,20 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 				{
 					name: "GitHub",
 					icon: "fa7-brands:github",
-					url: "https://github.com/CuteLeaf/Firefly",
+					url: "https://github.com/ClinaSaMa",
 					showName: true,
 				},
 				{
 					name: "Email",
 					icon: "fa7-solid:envelope",
-					url: "mailto:xiaye@msn.com",
+					url: "mailto:clina@disroot.org",
 				},
-				{
+/*				{
 					name: "Sponsor",
 					icon: "material-symbols:favorite",
 					url: "https://blog.cuteleaf.cn/sponsor/",
 				},
+*/
 				{
 					name: "RSS",
 					icon: "fa7-solid:rss",
