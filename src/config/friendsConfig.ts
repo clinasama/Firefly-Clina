@@ -151,9 +151,9 @@ export const friendsConfig: FriendLink[] = [
 	},
 	{
 		title: "Jiwac's Blog",
-		siteurl: "https://jmk.gv.uy",
-		imgurl: "https://jmk.gv.uy/images/jinmukun-avatar.webp",
-		desc: "写自己想写的东西，做自己想做的事情",
+		siteurl: "https://mukunjin.com",
+		imgurl: "https://mukunjin.com/images/avatar.png",
+		desc: "Everything finished with exit code 0.",
 		tags: ["Blog"],
 		weight: 10,
 		enabled: true,
